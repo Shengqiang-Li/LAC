@@ -1,1 +1,1 @@
-# LAC
+# Code of linear attention.
