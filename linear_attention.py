@@ -29,7 +29,7 @@ class MultiHeadedLinerAttention(nn.Module):
 
 
     def forward(self, query, key, value, mask=None):
-        """Compute scaled dot product attention.
+        """Compute linear attention.
 
         Args:
             query (torch.Tensor): Query tensor (#batch, time1, size).
