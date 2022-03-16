@@ -1,1 +1,2 @@
-# Code of linear attention.
+# LAC
+Pytorch implemenation of linear attention.
