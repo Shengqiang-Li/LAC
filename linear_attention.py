@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+# Copyright (c) Shengqiang Li (shengqiangli@mail.nwpu.edu.cn)
+
 
 import torch
 
